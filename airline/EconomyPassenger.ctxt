@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=passengerNumberStart\ fName\ lName\ w\ lugg\ typecharge\ basefare\ ffc
+comment0.target=EconomyPassenger(int,\ java.lang.String,\ java.lang.String,\ double,\ double,\ int,\ int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ that\ instaciates\ the\ EconomyPassenger\ to\ create\ Economy\ passengers\r\n\ \r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ toString\ method\ to\ give\ passenger\ details\r\n
+numComments=2

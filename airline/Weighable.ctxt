@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Weighable
+comment0.text=\n\n\ @author\ Ian\n\ A\ class\ implementing\ this\ interface\ would\ be\ able\ to\ set\ its\ weight\ and\ get\ its\ weight.\ \ \n\ \n
+comment1.params=weight
+comment1.target=void\ setWeight(double)
+comment2.params=
+comment2.target=double\ getWeight()
+numComments=3

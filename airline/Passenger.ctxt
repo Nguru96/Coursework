@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=passengerNumberStart\ fName\ lName\ w\ lugg
+comment0.target=Passenger(int,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment0.text=\r\n\ Constructor\ for\ the\ abstract\ class\ that\ will\ be\ used\ by\ concrete\ classes\ that\ inherit\ from\ it\r\n
+comment1.params=weight
+comment1.target=void\ setWeight(double)
+comment1.text=\r\n\ Sets\ the\ passenger\ weight\r\n
+comment2.params=
+comment2.target=double\ getWeight()
+comment2.text=\r\n\ gets\ the\ weight\ of\ the\ passenger(Weight+luggage)\r\n
+comment3.params=luggW
+comment3.target=void\ setLuggage(double)
+comment3.text=\r\n\ sets\ the\ weight\ of\ the\ luggage\r\n
+comment4.params=
+comment4.target=java.lang.String\ getFirstName()
+comment4.text=\r\n\ gets\ the\ passengers\ first\ name\r\n
+comment5.params=
+comment5.target=java.lang.String\ getLastName()
+comment5.text=\r\n\ gets\ the\ passengers\ last\ name\r\n
+comment6.params=
+comment6.target=int\ getPassNum()
+comment6.text=\r\n\ gets\ the\ passenger\ number\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ toString\ method\ that\ prints\ out\ the\ states\ that\ the\ class\ has\r\n
+numComments=8

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=passengerNumberStart\ fName\ lName\ w\ lugg\ typecharge\ basefare\ ffc
+comment0.target=PayingPassenger(int,\ java.lang.String,\ java.lang.String,\ double,\ double,\ int,\ int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ the\ abstract\ class\ that\ will\ be\ used\ by\ concrete\ classes\ that\ inherit\ from\ it.\r\n
+comment1.params=
+comment1.target=double\ getCharge()
+comment1.text=\r\n\ Method\ to\ calculate\ the\ passengers\ fare\ for\ the\ flight\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFFC()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ toString\ method\ that\ prints\ out\ the\ the\ passenger's\ details\r\n
+numComments=4

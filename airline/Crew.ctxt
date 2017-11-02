@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=passengerNumberStart\ fName\ lName\ w\ lugg\ pos
+comment0.target=Crew(int,\ java.lang.String,\ java.lang.String,\ double,\ double,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ to\ be\ used\ to\ create\ objects\ of\ Crew\ type\r\n
+comment1.params=
+comment1.target=java.lang.String\ getCrew()
+comment1.text=\r\n\ return\ the\ position\ of\ the\ crew\ member\r\n
+comment2.params=pos
+comment2.target=void\ setCrew(java.lang.String)
+comment2.text=\r\n\ set\ the\ position\ of\ the\ crew\ member\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ overrides\ the\ toString\ from\ the\ Passenger\ class\ adding\ the\ position\ of\ the\ crew\ member\r\n
+numComments=4
